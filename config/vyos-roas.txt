@@ -1,0 +1,4 @@
+set interfaces ethernet eth0 hw-id '0c:7d:18:cd:2a:00'
+set interfaces ethernet eth0 vif 10 address '21DA:D3:1::1/64'
+set interfaces ethernet eth0 vif 20 address '21DA:D3:2::1/64'
+set system config-management commit-revisions '100'

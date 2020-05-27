@@ -5,4 +5,10 @@ Scaling networks scripts &amp; guides
 
 ### 2-router-vrrp.py
 
-Configure two routers to act as one vrrp router. Runs over telnet.
+Configure two routers to act as one vrrp router. Sets config over telnet.
+
+## Config
+
+### 2-router-vrrp.py
+
+Configure two routers to act as one vrrp router. Sets config over telnet.
