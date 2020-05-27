@@ -5,10 +5,13 @@ Scaling networks scripts &amp; guides
 
 ### 2-router-vrrp.py
 
-Configure two routers to act as one vrrp router. Sets config over telnet.
+Also see: https://docs.vyos.io/en/latest/high-availability.html
+
+Configure two routers to act as one ipv4 vrrp router. Sets config over telnet.
+Client is not automatically configured, just set the ip to \*.\*.\*.4 and default gateway to \*.\*.\*.1 (ip of virtual router).
 
 ## Config
 
-### 2-router-vrrp.py
+### vyos-roas.txt
 
-Configure two routers to act as one vrrp router. Sets config over telnet.
+Config for ipv6 vyos router-on-a-stick between VLANS 10 and 20.
