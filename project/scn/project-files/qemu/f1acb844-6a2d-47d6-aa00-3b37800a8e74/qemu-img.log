@@ -1,0 +1,1 @@
+Formatting '/home/pieter/GNS3/projects/testing/project-files/qemu/f1acb844-6a2d-47d6-aa00-3b37800a8e74/hda_disk.qcow2', fmt=qcow2 size=2097152000 backing_file=/home/pieter/VyOS-hda.qcow2 cluster_size=65536 lazy_refcounts=off refcount_bits=16

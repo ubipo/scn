@@ -1,0 +1,16 @@
+uBridge version 0.9.18 running with libpcap version 1.9.1 (with TPACKET_V3)
+Hypervisor TCP control server started (IP localhost port 34907).
+UDP tunnel connecting from local port 10051 to IPv4 address 127.0.0.1 on port 10050
+UDP tunnel connecting from local port 10002 to IPv4 address 192.168.1.2 on port 20005
+Destination NIO listener thread for QEMU-f1acb844-6a2d-47d6-aa00-3b37800a8e74-0 has started
+Source NIO listener thread for QEMU-f1acb844-6a2d-47d6-aa00-3b37800a8e74-0 has started
+UDP tunnel connecting from local port 10053 to IPv4 address 127.0.0.1 on port 10052
+UDP tunnel connecting from local port 10003 to IPv4 address 172.16.149.128 on port 20001
+Source NIO listener thread for QEMU-f1acb844-6a2d-47d6-aa00-3b37800a8e74-1 has started
+Destination NIO listener thread for QEMU-f1acb844-6a2d-47d6-aa00-3b37800a8e74-1 has started
+UDP tunnel connecting from local port 10055 to IPv4 address 127.0.0.1 on port 10054
+UDP tunnel connecting from local port 10005 to IPv4 address 127.0.0.1 on port 10004
+Destination NIO listener thread for QEMU-f1acb844-6a2d-47d6-aa00-3b37800a8e74-2 has started
+Source NIO listener thread for QEMU-f1acb844-6a2d-47d6-aa00-3b37800a8e74-2 has started
+send: Network is unreachable
+Source NIO listener thread for QEMU-f1acb844-6a2d-47d6-aa00-3b37800a8e74-0 has stopped because of an error: Invalid argument 
